@@ -1,2 +1,2 @@
 # T-Chatbot-AI
-Yapay zeka kullanarak yapıtığım Chatbot programı
+Yapay zeka kullanarak yaptığım Chatbot programı
